@@ -31,6 +31,10 @@ have addressed is a multi class classification problem.
 
 
 ## Result---
+![starting](https://user-images.githubusercontent.com/101704639/170420080-33cccec4-4b6b-45f4-be04-2881102e27a2.png)
+![original](https://user-images.githubusercontent.com/101704639/170420100-2f8527f0-6d85-4302-b70e-393b4dd4e9db.png)
+![disease](https://user-images.githubusercontent.com/101704639/170420128-b2d9f6cb-b618-4e87-baf3-a0576e664c88.png)
+
 
 
 
